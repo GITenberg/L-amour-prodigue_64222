@@ -1,0 +1,26 @@
+_repo: L-amour-prodigue_64222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maizeroy, René
+    aliases:
+    - Maizeroy, Rene
+    - Toussaint, René Jules Jean, baron
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '38669'
+    url: http://www.gutenberg.org/2009/agents/38669
+    wikipedia: https://fr.wikipedia.org/wiki/Ren%C3%A9_Maizeroy
+description: ''
+gutenberg_issued: '2021-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64222'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'amour prodigue
+url: http://www.gutenberg.org/ebooks/64222
